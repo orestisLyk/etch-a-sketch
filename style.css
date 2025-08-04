@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+}
+
+.main-container {
+    display:flex;
+    flex-direction:column;
+    justify-content:stretch;
+    background-color: antiquewhite;
+    width: 600px;
+    height: 600px;
+}
+
+.block {
+    background-color: white;
+}
+
+.block-row {
+    display: flex;
+    justify-content: stretch;
+}
